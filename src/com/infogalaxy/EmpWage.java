@@ -6,7 +6,7 @@ import java.util.Random;
 public class EmpWage {
     public static void main(String[] args) {
         // Welcom message for user
-        System.out.println("Welcom To Employee Wage Calculation Problem");
+        System.out.println("Welcom To Employee Wage Calculation Problem By Bhavesh Kanhaiya");
         //UC-2 Calculate Daily Wage
         final int WAGE_PER_HR = 20;
         final int FULL_DAY_HR = 8;
