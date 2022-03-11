@@ -7,7 +7,7 @@ import java.util.Random;
 public class EmpWage {
     public static void main(String[] args) {
         //Welcome Message for User
-        System.out.println("Welcome To Employee Wage Builder Made By Prakash Patil");
+        System.out.println("Welcome To Employee Wage Builder Made By Bhavesh Kanhaiya");
         //UC-2 Calculate Daily Employee Wage or Hour
         final int WAGE_PER_HR = 20;
         final int PART_TIME = 4;
